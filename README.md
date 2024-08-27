@@ -4,6 +4,8 @@
 *Fight!*
 - **BOSS 1:** Sparkle ✨
 
+< Oh no! It's the sparkle boss.. whatever shall we do?!?
+
 ![image](https://github.com/user-attachments/assets/9a5d830e-6f7b-44da-bc85-6932ebb1650a)
 - **BOSS 2:** Star ⭐
 
