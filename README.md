@@ -19,3 +19,5 @@
 ![image](https://github.com/user-attachments/assets/ef1b4bba-dad8-4e21-bf7b-d17f9c2ae288)
 
 > Wait... he looks kinda.. sweet??? We can't hurt him!
+
+![image](md-image/cassie.jpg)
