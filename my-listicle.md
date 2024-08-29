@@ -26,10 +26,19 @@
 
 ![image](https://github.com/user-attachments/assets/87d63821-8628-4b2f-89aa-8456c9ef3418)
 
-## Sesonal 
+## Sesonal
+1. Pitch Black (I and II)
+> These Halloween specials were released in the early 2000's for Halloween. Despite their name, they were not "pitch black," but instead a dark purple color representing their grape flavor.
+
+
 
 ## Sophia's Personal Favorites
 1. Baja Blast
 2. Voltage
 3. Spark
 4. Kickstart: Blackberry and Fruitpunch
+
+## Want to know more???
+> Check out the Mt. Dew wiki!
+
+https://mountaindew.fandom.com/wiki/Mountain_Dew_Wiki
