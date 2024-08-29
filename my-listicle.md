@@ -30,8 +30,7 @@
 1. Pitch Black (I and II)
 > These Halloween specials were released in the early 2000's for Halloween. Despite their name, they were not "pitch black," but instead a dark purple color representing their grape flavor.
 
-![image](https://github.com/user-attachments/assets/6ca36383-3293-41c7-8d7c-bcf6ba4db159)
-![image](https://github.com/user-attachments/assets/c9a9a5a5-6c6f-4558-97f6-0ef5957c2bfb)
+![image](https://github.com/user-attachments/assets/6ca36383-3293-41c7-8d7c-bcf6ba4db159) ![image](https://github.com/user-attachments/assets/c9a9a5a5-6c6f-4558-97f6-0ef5957c2bfb)
 
 2. VooDEW Series
 > The VooDEW series was launched in 2019. Mt. Dew creates a new seasonal mystery flavor each year around Halloween, these being VooDEW 1.0-5.0.
@@ -43,8 +42,8 @@ https://mountaindew.fandom.com/wiki/VooDEW#VooDEW_6.0
 - Holiday Brew
   > 2017 specialty flavor was made as a seasonal drink theamed around Christmas! It was 60% Code Red and 40% Original, making it a blend of red and green! (Note: it only appeared red sadly)
 
-![image](https://github.com/user-attachments/assets/6cbc1d26-8d0c-47ac-9a55-4858bbb68a46)
-https://mountaindew.fandom.com/wiki/Holiday_Brew
+  ![image](https://github.com/user-attachments/assets/6cbc1d26-8d0c-47ac-9a55-4858bbb68a46)
+  https://mountaindew.fandom.com/wiki/Holiday_Brew
 
 ## Sophia's Personal Favorites
 1. Baja Blast
